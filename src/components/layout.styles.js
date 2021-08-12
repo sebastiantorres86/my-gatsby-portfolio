@@ -24,3 +24,10 @@ export const NavLinkItem = styled.li`
 export const NavLinkText = styled(Link)`
   color: black;
 `
+
+export const SiteTitle = styled.header`
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
+`
